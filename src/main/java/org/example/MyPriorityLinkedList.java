@@ -67,4 +67,8 @@ public class MyPriorityLinkedList<E> {
     {
         return size == 0;
     }
+    public int size()
+    {
+        return this.size;
+    }
 }
