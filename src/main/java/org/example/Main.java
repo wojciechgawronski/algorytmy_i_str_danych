@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -51,6 +53,17 @@ public class Main {
 //        System.out.println(mpll.get());
 //        System.out.println(mpll.remove());
 //        System.out.println(mpll.remove());
+
+
+//        SORTING
+//        int[] arr1 = {20,45,93,67,10,97,52,88,33,92};
+//        int[] arr2 = {20,45,93,67,10,97,52,88,33,92};
+//        System.out.println(Arrays.toString(arr1));
+//
+//        BubbleSort.sort(arr1);
+//        System.out.println(Arrays.toString(arr1));
+//        BubbleSort.sortOptimising(arr2);
+//        System.out.println(Arrays.toString(arr2));
 
     }
 }
